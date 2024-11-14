@@ -1,8 +1,8 @@
-window.addEventListener('scroll', show);
-
 function showalert(){
     alert("makasiii udah daftarrr, gampang kan cara daftarnya hehe 😆😆")
 }
+
+window.addEventListener('scroll', show);
 
 function show(){
     var shows = document.querySelectorAll(".show");
